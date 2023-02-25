@@ -21,7 +21,7 @@ const config = {
   organizationName: 'bearz-sh', // Usually your GitHub org/user name.
   projectName: 'bearzsh.github.io', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
