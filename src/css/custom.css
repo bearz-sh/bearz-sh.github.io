@@ -19,12 +19,36 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #8500cd;
+  --ifm-color-primary-dark: #9401e3;
+  --ifm-color-primary-darker: #7301b0;
+  --ifm-color-primary-darkest: #64009a;
+  --ifm-color-primary-light: #aa16f9;
+  --ifm-color-primary-lighter: #b12bfa;
+  --ifm-color-primary-lightest: #b429ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #121212;
+}
+
+html[data-theme='dark'] {
+  --ifm-hero-background-color: #600094;
+  --ifm-color-content: #7d7d7d;
+  --ifm-heading-color: #e4e4e4;
+  --ifm-background-color: #121212;
+  --ifm-background-surface-color: #11001c;
+}
+
+.hero--primary {
+  --ifm-hero-background-color: #600094;
+}
+
+.footer--dark {
+  --ifm-footer-background-color:  #151515;
+}
+
+.navbar__logo {
+  height: 50px;
+}
+.navbar__logo img {
+  height: 50px;
 }

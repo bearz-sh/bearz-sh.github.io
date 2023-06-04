@@ -1,0 +1,26 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "docusaurus",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:3000",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/blog",
+      "title": "blog"
+    },
+    {
+      "path": "[[workspace]]/docs/azure",
+      "title": "azure"
+    },
+    {
+      "path": "[[workspace]]/docs/lists",
+      "title": "lists"
+    },
+    {
+      "title": "pages",
+      "path": "[[workspace]]/src/pages"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": []
+}
