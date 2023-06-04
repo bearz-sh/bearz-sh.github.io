@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbearzsh=self.webpackChunkbearzsh||[]).push([[375],{1254:s=>{s.exports=JSON.parse('{"title":"Lists","slug":"/category/lists","permalink":"/docs/category/lists","navigation":{"previous":{"title":"Docs","permalink":"/docs/intro"},"next":{"title":"Bearz Lists","permalink":"/docs/lists/"}}}')}}]);

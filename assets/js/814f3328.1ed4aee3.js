@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbearzsh=self.webpackChunkbearzsh||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Initial Post","permalink":"/blog/initial-post"}]}')}}]);
