@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'bearz-sh', // Usually your GitHub org/user name.
-  projectName: 'bearzsh.github.io', // Usually your repo name.
+  projectName: 'bearz-sh.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
